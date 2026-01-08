@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @SamtaSakha
-- 🌱 I’m currently learning ...
+# SamtaSakha
+
