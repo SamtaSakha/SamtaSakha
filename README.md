@@ -1,4 +1,7 @@
 # *Samta Sakha*
+
+### Myself Samta Sakha, I’m an Data Science and AI enthusiast. My projects span RAG-based systems, web scraping pipelines, predictive modeling, and automation.
+
 **🧠🏗️Building scalable, resilient systems with a focus on performance**  
 
 <img src="img-rc006znHPdxRNtaMoH9yHXAt.webp" width="450"/> 
